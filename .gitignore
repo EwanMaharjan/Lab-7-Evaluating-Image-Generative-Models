@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.data/
+.generated_images/
+.real_images/
+
+data/
+generated_images/
+real_images/
